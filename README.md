@@ -19,6 +19,8 @@ Pour comprendre le fonctionnement d'un hackintosh et plus précisément du dossi
 
 ## 📂 Spécifications Mac
 
+| Specifications | Details                                                  |
+| ------------------- | ------------------------------------------- |
 | Version max     | Sonoma 14      					|
 | SMBIOS | MacBookAir8,1               |
 | SIP          | Enabled `00000000`            |
